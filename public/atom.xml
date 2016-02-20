@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SYMMETRY IN STRUCTURE</title>
+  <subtitle>ELEKEZEM&#39;s blog</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://elekeze.me/"/>
+  <updated>2016-02-20T14:47:34.000Z</updated>
+  <id>http://elekeze.me/</id>
+  
+  <author>
+    <name>ELEKEZEM</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://elekeze.me/2016/02/20/hello-world/"/>
+    <id>http://elekeze.me/2016/02/20/hello-world/</id>
+    <published>2016-02-20T18:03:51.000Z</published>
+    <updated>2016-02-20T14:47:34.000Z</updated>
+    
+    <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Deploy-to-remote-sites&quot;&gt;&lt;a href=&quot;#Deploy-to-remote-sites&quot; class=&quot;headerlink&quot; title=&quot;Deploy to remote sites&quot;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/deployment.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Sticky Navigation</title>
+    <link href="http://elekeze.me/2016/02/20/Sticky-Navigation/"/>
+    <id>http://elekeze.me/2016/02/20/Sticky-Navigation/</id>
+    <published>2016-02-20T16:59:17.000Z</published>
+    <updated>2016-02-20T17:10:20.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;Sticky-Navigation&quot;&gt;&lt;a href=&quot;#Sticky-Navigation&quot; class=&quot;headerlink&quot; title=&quot;Sticky Navigation&quot;&gt;&lt;/a&gt;Sticky Navigation&lt;/h1&gt;&lt;h6 id=&quot;“这也是一个markdown的测试”&quot;&gt;&lt;a href=&quot;#“这也是一个markdown的测试”&quot; class=&quot;headerlink&quot; title=&quot;“这也是一个markdown的测试”&quot;&gt;&lt;/a&gt;&lt;em&gt;“这也是一个markdown的测试”&lt;/em&gt;&lt;/h6&gt;&lt;h3 id=&quot;为什么要改造Hype-3？&quot;&gt;&lt;a href=&quot;#为什么要改造Hype-3？&quot; class=&quot;headerlink&quot; title=&quot;为什么要改造Hype 3？&quot;&gt;&lt;/a&gt;为什么要改造Hype 3？&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Hype 3可以让只会做PPT的新手快速搭建一个交互原型或者静态站点，当然也可以让我这样的杂食性前端用Hype来做PPT.&lt;/li&gt;
+&lt;li&gt;Hype竟然是一个优秀的项目文件管理系统，用他来做项目，几乎不用考虑备份与打包.&lt;/li&gt;
+&lt;li&gt;做原型或者静态站快！快！快！&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;Sticky-Navigation-1&quot;&gt;&lt;a href=&quot;#Sticky-Navigation-1&quot; class=&quot;headerlink&quot; title=&quot;Sticky Navigation&quot;&gt;&lt;/a&gt;Sticky Navigation&lt;/h3&gt;&lt;p&gt;放一个图来解释&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://gangdesign.io/wp-content/uploads/2016/01/507x400_sticky_nav.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h6 id=&quot;Sticky-Navigation-2&quot;&gt;&lt;a href=&quot;#Sticky-Navigation-2&quot; class=&quot;headerlink&quot; title=&quot;Sticky Navigation&quot;&gt;&lt;/a&gt;&lt;em&gt;Sticky Navigation&lt;/em&gt;&lt;/h6&gt;&lt;p&gt;Sticky Navigation这样的应用在原型制作与响应式页面应用中很常见，&lt;/p&gt;
+&lt;p&gt;但是，Hype 3却没有这样的相关设置，除非你是制作的Animation，向上图那样.&lt;/p&gt;
+&lt;h5 id=&quot;（关于Animation的黑科技放在后面的章节）&quot;&gt;&lt;a href=&quot;#（关于Animation的黑科技放在后面的章节）&quot; class=&quot;headerlink&quot; title=&quot;（关于Animation的黑科技放在后面的章节）&quot;&gt;&lt;/a&gt;（关于Animation的黑科技放在后面的章节）&lt;/h5&gt;&lt;p&gt;&lt;strong&gt;所以我们就很有必要来改造Hype 3&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Hype-Function&quot;&gt;&lt;a href=&quot;#Hype-Function&quot; class=&quot;headerlink&quot; title=&quot;Hype Function&quot;&gt;&lt;/a&gt;Hype Function&lt;/h3&gt;&lt;p&gt;可能是Hype知道自己先天的不足，所以制作了详尽的API，可以让用户自定义JS Function&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://gangdesign.io/wp-content/uploads/2016/01/Screenshot-2016-01-22-06.40.21.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight js&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;28&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;//Function sticky()&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;// element - DOMHTMLElement that triggered this function being called&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;// event - event that triggered this function being called&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;sticky&lt;/span&gt;(&lt;span class=&quot;params&quot;&gt;hypeDocument, element, event&lt;/span&gt;) &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;lastPos = &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;y1 : &lt;span class=&quot;number&quot;&gt;0&lt;/span&gt;,&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;y2 : &lt;span class=&quot;number&quot;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;el = hypeDocument.getElementById(&lt;span class=&quot;string&quot;&gt;&#39;menu&#39;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;sPos = el.getBoundingClientRect().top;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;built_in&quot;&gt;window&lt;/span&gt;.onscroll=&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt;(&lt;span class=&quot;params&quot;&gt;&lt;/span&gt;)&lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;wY = &lt;span class=&quot;built_in&quot;&gt;window&lt;/span&gt;.pageYOffset || (&lt;span class=&quot;built_in&quot;&gt;document&lt;/span&gt;.body.scrollTop || &lt;span class=&quot;built_in&quot;&gt;document&lt;/span&gt;.documentElement.scrollTop) ;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;lastPos.y1 = lastPos.y2; lastPos.y2 = wY;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;if&lt;/span&gt;(wY &amp;gt;= sPos)&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;el.style.top = &lt;span class=&quot;string&quot;&gt;&#39;0px&#39;&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;el.setAttribute(&lt;span class=&quot;string&quot;&gt;&quot;class&quot;&lt;/span&gt;,&lt;span class=&quot;string&quot;&gt;&quot;sticky&quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;if&lt;/span&gt; (lastPos.y2 &amp;lt; lastPos.y1 &amp;amp;&amp;amp; wY &amp;lt;= sPos)&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;el.style.top = sPos + &lt;span class=&quot;string&quot;&gt;&#39;px&#39;&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;el.setAttribute(&lt;span class=&quot;string&quot;&gt;&quot;class&quot;&lt;/span&gt;,&lt;span class=&quot;string&quot;&gt;&quot;&quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;;	&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h4 id=&quot;函数简析&quot;&gt;&lt;a href=&quot;#函数简析&quot; class=&quot;headerlink&quot; title=&quot;函数简析&quot;&gt;&lt;/a&gt;函数简析&lt;/h4&gt;&lt;p&gt;&lt;img src=&quot;http://gangdesign.io/wp-content/uploads/2016/01/Screenshot-2016-01-22-07.15.53.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;函数名称为sticky()&lt;/li&gt;
+&lt;li&gt;需要给相应的对象定义元素名称，我将导航栏定义为menu&lt;/li&gt;
+&lt;li&gt;el.style.top为运动终止绝对坐标&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;效果如下&quot;&gt;&lt;a href=&quot;#效果如下&quot; class=&quot;headerlink&quot; title=&quot;效果如下&quot;&gt;&lt;/a&gt;&lt;strong&gt;效果如下&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://gangdesign.io/wp-content/uploads/2016/01/sticky.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Sticky-Navigation&quot;&gt;&lt;a href=&quot;#Sticky-Navigation&quot; class=&quot;headerlink&quot; title=&quot;Sticky Navigation&quot;&gt;&lt;/a&gt;Sticky Navigation&lt;/h1&gt;&lt;h6 id=&quot;“这也是一
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
